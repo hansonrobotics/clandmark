@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclandmark.a  CMakeFiles/clandmark.dir/CLandmark.cpp.o CMakeFiles/clandmark.dir/CFeaturePool.cpp.o CMakeFiles/clandmark.dir/CFeatures.cpp.o CMakeFiles/clandmark.dir/CAppearanceModel.cpp.o CMakeFiles/clandmark.dir/CDeformationCost.cpp.o CMakeFiles/clandmark.dir/CLoss.cpp.o CMakeFiles/clandmark.dir/CMaxSumSolver.cpp.o CMakeFiles/clandmark.dir/CXMLInOut.cpp.o
+/usr/bin/ranlib libclandmark.a

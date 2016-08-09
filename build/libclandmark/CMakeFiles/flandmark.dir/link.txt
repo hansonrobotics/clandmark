@@ -1,0 +1,2 @@
+/usr/bin/ar qc libflandmark.a  CMakeFiles/flandmark.dir/Flandmark.cpp.o CMakeFiles/flandmark.dir/CSparseLBPFeatures.cpp.o CMakeFiles/flandmark.dir/CSparseLBPAppearanceModel.cpp.o CMakeFiles/flandmark.dir/CDisplacementDeformationCost.cpp.o CMakeFiles/flandmark.dir/CNormalizedEuclideanLoss.cpp.o CMakeFiles/flandmark.dir/CTableLoss.cpp.o CMakeFiles/flandmark.dir/CZeroLoss.cpp.o CMakeFiles/flandmark.dir/CTreeMaxSumSolver.cpp.o
+/usr/bin/ranlib libflandmark.a
